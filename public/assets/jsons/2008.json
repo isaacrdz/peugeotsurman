@@ -1,0 +1,14 @@
+{
+    "group": "2008",
+    "vehicle": "2008",
+    "title": "2008",
+    "versions":[
+        {"version":"ACTIVE", "price":"453,900", "image":"2008", "features":["Pantalla táctil de 7\"","Apple CarPlay® y Android Auto®","Faros de LED con sensor de luz y lluvia"]},
+        {"version":"ALLURE", "price":"497,900", "image":"2008", "features":["Rines de Aluminio de 17\" bi-tono","Acceso manos libres con botón de encendido","Nuevo Peugeot i-Cockpit® 3D"]},
+        {"version":"ALLURE PACK", "price":"515,900", "image":"2008", "features":["Techo panorámico retráctil","Acceso manos libres con botón de encendido","Nuevo Peugeot i-Cockpit® 3D"]},
+        {"version":"GT LINE", "price":"", "image":"2008", "features":["Monitoreo pasivo de ángulos muertos","Pantalla táctil de 10\" HD con sistema de navegación TomTom®","Pack Ambience LED: Iluminación ambiental de 8 colores"]}
+    ],
+    "extras": [
+        {"title":"", "image":"", "texts":[""]}
+    ]
+}

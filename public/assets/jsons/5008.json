@@ -1,0 +1,11 @@
+{
+    "group": "5008",
+    "vehicle": "5008",
+    "title": "5008",
+    "versions":[
+        {"version":"ALLURE PACK", "price":"695,900", "image":"5008", "features":["Rines de aluminio de 19\" BOSTÓN","Techo panorámico retráctil","Sensores de estacionamiento traseros y delanteros","Tercera fila con 2 asientos retráctiles"]},
+        {"version":"GT THP", "price":"776,900", "image":"5008", "features":["Sistema avanzado de asistencia a la conducción (ADAS)","Pantalla táctil de 10\" HD con sistema de navegación","Sistema de audio Premium Hi-Fi FOCAL®"]},
+        {"version":"GT HDI", "price":"816,900", "image":"5008", "features":["Cámara de reversa 360°","Sistema avanzado de asistencia a la conducción (ADAS)","Pantalla táctil de 10\" HD con sistema de navegación","Rendimiento hasta 21.9 km/lt"]}
+    ],
+    "extras": []
+}

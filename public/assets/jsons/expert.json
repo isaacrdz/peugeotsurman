@@ -1,0 +1,9 @@
+{
+    "group": "expert",
+    "vehicle": "EXPERT",
+    "title": "EXPERT",
+    "versions":[
+        {"version":"FURGÓN HDI", "price":"577,900", "image":"expert", "features":["Volante con ajuste de altura y profundidad "," Pre - acondicionamiento para radio "," Faros de halógeno "," Control crucero y imitador de velocidad"]}
+    ],
+    "extras": []
+}

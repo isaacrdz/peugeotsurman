@@ -1,0 +1,12 @@
+{
+    "group": "3008",
+    "vehicle": "3008",
+    "title": "3008",
+    "versions":[
+        {"version":"ACTIVE", "price":"585,900", "image":"3008", "features":["Pantalla táctil de 8\" Apple CarPlay® y Android Auto®","Rines de aluminio de 18\" DETROIT","Cámara de reversa 180°","Paletas de cambios al volante (Paddle Shifter)"]},
+        {"version":"ALLURE PACK", "price":"640,900", "image":"3008", "features":["Rines de aluminio de 19\" BOSTÓN","Techo panorámico retráctil","Sensores de estacionamiento traseros "," delanteros"]},
+        {"version":"GT THP", "price":"716,900", "image":"3008", "features":["Sistema avanzado de asistencia a la conducción (ADAS)","Pantalla táctil de 10\" HD con sistema de navegación","Sistema de audio Premium Hi-Fi FOCAL®"]},
+        {"version":"GT HDI", "price":"756,900", "image":"3008", "features":["Cámara de reversa 360°","Sistema avanzado de asistencia a la conducción (ADAS)","Pantalla táctil de 10\" HD con sistema de navegación","Rendimiento hasta 21.9 km/lt"]}
+    ],
+    "extras": []
+}

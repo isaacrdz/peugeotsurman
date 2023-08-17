@@ -1,0 +1,10 @@
+{
+    "group": "manager",
+    "vehicle": "MANAGER",
+    "title": "MANAGER",
+    "versions":[
+        {"version":"FURGÓN L2H2", "price":"686,900", "image":"manager", "features":["Descansabrazos para conductor y pasajero "," Pre-acondicionamiento para radio "," Apertura de puertas traseras 270° "," Bolsas de aire frontales para conductor y pasajero"]},
+        {"version":"FURGÓN L4H2", "price":"716,900", "image":"manager", "features":["Banca delantera para tres pasajeros","Pre-acondicionamiento para radio"," Apertura de puertas traseras 270°","Grip Control con Hill Assist Descent Control"]}
+    ],
+    "extras": []
+}

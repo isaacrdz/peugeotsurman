@@ -1,0 +1,11 @@
+{
+    "group": "208",
+    "vehicle": "208",
+    "title": "208",
+    "versions":[
+        {"version":"ACTIVE", "price":"383,900", "image":"208", "features":["Cámara de reversa con visión 180°","Rines de Aluminio de 16\"","Apple CarPlay® y Android Auto®"]},
+        {"version":"ALLURE", "price":"434,900", "image":"208", "features":["Nuevo Peugeot i-Cockpit 3D®","Acceso manos libres con botón de encendido","Pantalla táctil de 7\""]},
+        {"version":"GT", "price":"484,900", "image":"208", "features":["Sistema avanzado de asistencia a la conducción (ADAS)","Techo panorámico/Monitoreo pasivo de ángulos muertos"]}
+    ],
+    "extras": []
+}

@@ -1,0 +1,11 @@
+{
+    "group": "partner",
+    "vehicle": "PARTNER",
+    "title": "NUEVA PARTNER",
+    "versions":[
+        {"version":"PARTNER MAXI PURETECH", "price":"402,900", "image":"partner", "features":["Freno de estacionamiento mecánico "," Iluminación en área de carga ","Peugeot i-Cockpit (Volante reducido, Panel de instrumentos y asiento del conductor elevados) "," Apertura de puertas 180° "," Sistema Stop & Start ( apagado y arranque automático de motor)"]},
+        {"version":"PARTNER MAXI HDI", "price":"392,900", "image":"partner", "features":["Freno de estacionamiento mecánico "," Iluminación en área de carga ","Peugeot i-Cockpit (Volante reducido, Panel de instrumentos y asiento del conductor elevados) "," Apertura de puertas 180° "," Sistema Stop & Start ( apagado y arranque automático de motor)"]},
+        {"version":"PARTNER MAXI PACK PURETECH", "price":"422,900", "image":"partner", "features":["Banca multiflex para conductor y dos pasajeros "," Piso en área de carga con cubierta pástica "," Faros antiniebla "," Cámara de reversa "," Sensores de estacionamiento trasero."]}
+    ],
+    "extras": []
+}

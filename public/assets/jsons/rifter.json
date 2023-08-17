@@ -1,0 +1,12 @@
+{
+    "group": "rifter",
+    "vehicle": "RIFTER",
+    "title": "RIFTER",
+    "versions":[
+        {"version":"ACTIVE HDI", "price":"431,900", "image":"rifter", "features":["Sensores de estacionamiento traseros","Asistente de arranque en pendientes (Hill Assist control)","Conectividad Bluetooth","Rendimiento de hasta 20 km/l"]},
+        {"version":"ALLURE PACK HDI", "price":"489,900", "image":"rifter", "features":["Pantalla táctil de 8\" con Apple CarPlay® y Android Auto®","automático bi-zona","7 pasajeros "]},
+        {"version":"ALLURE PACK PURETECH", "price":"522,900", "image":"rifter", "features":["Sistema Stop & Start","Faros de alta gama con función “Follow me home” y DRL en LED®","Aire acondicionado automático bi-zona"]},
+        {"version":"GT PURETECH", "price":"557,900", "image":"rifter", "features":["Monitor de ángulos muertos + Ayuda de estacionamiento lateral","Cámara de reversa visión 180"]}
+    ],
+    "extras": []
+}

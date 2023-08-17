@@ -1,0 +1,94 @@
+{
+  "cars": [
+    { "id": "301", "title": "301", "image": "301", "to": "301" },
+    { "id": "208", "title": "208", "image": "208", "to": "208" },
+    { "id": "2008", "title": "2008", "image": "2008", "to": "2008" },
+    { "id": "3008", "title": "3008", "image": "3008", "to": "3008" },
+    { "id": "5008", "title": "5008", "image": "5008", "to": "5008" },
+    { "id": "rifter", "title": "RIFTER", "image": "rifter", "to": "rifter" },
+    {
+      "id": "partner",
+      "title": "PARTNER",
+      "image": "partner",
+      "to": "partner"
+    },
+    { "id": "expert", "title": "EXPERT", "image": "expert", "to": "expert" },
+    { "id": "manager", "title": "MANAGER", "image": "manager", "to": "manager" }
+  ],
+  "banners": {
+    "version": "230810",
+    "list": [
+      { "group": "3008", "type": "jpeg", "image": "3008" },
+      { "group": "3008", "type": "png", "image": "BannersWeb_3008-3_Agosto" },
+      { "group": "3008", "type": "png", "image": "BannersWeb_3008-4_Agosto" },
+      { "group": "3008", "type": "png", "image": "BannersWeb_Partner_Agosto" },
+      {
+        "group": "3008",
+        "type": "png",
+        "image": "BannersWeb_Partner-2_Agosto"
+      },
+      {
+        "group": "3008",
+        "type": "png",
+        "image": "BannersWeb_Partner-3_Agosto"
+      },
+      { "group": "3008", "type": "png", "image": "BannersWeb_Partner-4_Agosto" }
+    ]
+  },
+  "schedules": [],
+  "social": [{ "type": "facebook", "data": { "url": "PeugeotGarzaSada" } }],
+  "services": [
+    { "title": "Prueba de manejo", "image": "blk1.jpg", "to": "/contacto" },
+    {
+      "title": "Conoce nuestros modelos",
+      "image": "blk2.jpg",
+      "to": "/contacto"
+    }
+  ],
+  "contact": {
+    "text": "Para contactarnos por favor llena este sencillo formulario y no olvides explicar el motivo antes de hacer clic en el botón de Enviar. Pronto nos pondremos en contacto contigo para hacer un oportuno seguimiento de tu caso.",
+    "address": "Av. Eugenio Garza Sada No. 2430 Col. Tecnológico, Monterrey, Mexico",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449.5714456571421!2d-100.29320415174627!3d25.65234124993046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bfb8c1ed4c6b%3A0x3c428856db4cb437!2sPeugeot%20Garza%20Surman!5e0!3m2!1sen!2sus!4v1673894182461!5m2!1sen!2sus",
+    "options": [
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "+52 81 3277 3366",
+          "number": "528132773366",
+          "url": "https://wa.me/528132773366"
+        }
+      }
+    ]
+  },
+  "service": {
+    "text": "Para contactarnos por favor llena este sencillo formulario y no olvides explicar el motivo antes de hacer clic en el botón de Enviar. Pronto nos pondremos en contacto contigo para hacer un oportuno seguimiento de tu caso.",
+    "address": "Av. Eugenio Garza Sada No. 2430 Col. Tecnológico, Monterrey, Mexico",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d449.5714456571421!2d-100.29320415174627!3d25.65234124993046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bfb8c1ed4c6b%3A0x3c428856db4cb437!2sPeugeot%20Garza%20Surman!5e0!3m2!1sen!2sus!4v1673894182461!5m2!1sen!2sus",
+    "options": [
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "Peugeot Garza Sada +52 81 1798 1944",
+          "number": "528117981944",
+          "url": "https://wa.me/528117981944"
+        }
+      },
+      {
+        "type": "whatsapp",
+        "data": {
+          "text": "Peugeot Linda Vista +52 81 1587 3783",
+          "number": "528115873783",
+          "url": "https://wa.me/528115873783"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "address": "Av. Eugenio Garza Sada No. 2430 Col. Tecnológico, Monterrey, Mexico",
+    "legal": {
+      "title": "Aviso de Privacidad",
+      "url": "https://www.distribuidor.peugeot.com.mx/mtytec-eurosurman/politica-de-privacidad/"
+    }
+  },
+  "terms": "Imágenes de uso ilustrativo. Pecios expresados en Pesos Mexicanos. Precios sujetos a cambios sin previo aviso. Vigencia Febrero 2023"
+}

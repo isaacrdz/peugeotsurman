@@ -1,0 +1,12 @@
+{
+    "group": "301",
+    "vehicle": "301",
+    "title": "301",
+    "versions":[
+        {"version":"ACTIVE VTI", "price":"321,900", "image":"301", "features":["ILUMINACION DIURNA","CONECTIVIDAD BLUETHOOH","ASISTENCIA EN FRENADO DE URGENCIA"]},
+        {"version":"ACTIVE HDI", "price":"333,900", "image":"301", "features":["ILUMINACION DIURNA","CONECTIVIDAD BLUETHOOH","ASISTENCIA EN FRENADO DE URGENCIA","RENDIMIENTO DE HASTA 27 KM/LT"]},
+        {"version":"ALLURE VTI", "price":"358,900", "image":"301", "features":["AIRE ACONDICIONADO AUTOMÁTICO","TRANSMISIÓN AUTOMÁTICA","RINES DE ALUMINIO DE 16\""]},
+        {"version":"ALLURE HDI", "price":"349,900", "image":"301", "features":["AIRE ACONDICIONADO AUTOMÁTICO"," RENDIMIENTO DE HASTA 27 KM/L","RINES DE ALUMINIO DE 16\""]}
+    ],
+    "extras": []
+}
